@@ -8,7 +8,7 @@
         "48": "icon48.png",
         "16": "icon16.png"
     },
-    "backgournd": {
+    "background": {
         "scripts": ["eventPage.js"],
         "persistent": false
     },
